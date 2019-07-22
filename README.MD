@@ -1,5 +1,6 @@
 # Creating a RESTful API with Node.js
 
+#express #router #mongoose
 Make sure to also add your Mongo Atlas Admin Username to a nodemon.json file (which you have to create).
 
 ```
